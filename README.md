@@ -6,11 +6,10 @@
 ---
 
 ## 🎮 在线演示
-
+[
 | 渠道 | 链接 | 备注 |
 |------|------|------|
-| **Netlify（推荐）** | https://kaleidoscopic-tapioca-61193c.netlify.app/ | 主演示 |
-| **GitHub Pages** | https://dontworrythatiwillhurt.github.io/midnight-rules/midnight-rules/ | 必须两层 `midnight-rules/`，少一层会 **404** |
+(https://dontworrythatiwillhurt.github.io/midnight-rules-v2/)
 
 ### 本地运行
 
